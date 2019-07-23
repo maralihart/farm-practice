@@ -1,0 +1,32 @@
+body {
+  color: #FF787A;
+  background: lemonchiffon;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  background: honeydew;
+}
+
+img {
+  border: 5px dotted cornflowerblue;
+  border-radius: 100%;
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.info {
+  border: 25px inset olive;
+}
+
+#second {
+  color: red;
+}
+
+img {
+  cursor: pointer;
+}
